@@ -1,0 +1,9 @@
+name: FakePluginsCommand
+version: '1.0'
+main: com.ashkiano.fakepluginscommand.FakePluginsCommand
+api-version: '1.16'
+commands:
+  plugins:
+    description: Displays fake plugins list
+    usage: /<command>
+    aliases: [pl]
