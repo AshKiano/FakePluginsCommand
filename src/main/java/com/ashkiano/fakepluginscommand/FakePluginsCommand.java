@@ -10,6 +10,7 @@ public class FakePluginsCommand extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        Metrics metrics = new Metrics(this, 21289);
         this.getCommand("plugins").setExecutor(new CommandExecutor() {
             @Override
             public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
