@@ -1,5 +1,5 @@
 name: FakePluginsCommand
-version: '1.0'
+version: '1.2'
 main: com.ashkiano.fakepluginscommand.FakePluginsCommand
 api-version: '1.16'
 commands:

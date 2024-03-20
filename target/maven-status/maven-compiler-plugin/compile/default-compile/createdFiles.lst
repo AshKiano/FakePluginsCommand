@@ -1,2 +1,15 @@
+com\ashkiano\fakepluginscommand\Metrics$1.class
+com\ashkiano\fakepluginscommand\Metrics$DrilldownPie.class
+com\ashkiano\fakepluginscommand\Metrics$SingleLineChart.class
+com\ashkiano\fakepluginscommand\Metrics$MetricsBase.class
+com\ashkiano\fakepluginscommand\Metrics$AdvancedPie.class
+com\ashkiano\fakepluginscommand\Metrics$CustomChart.class
+com\ashkiano\fakepluginscommand\Metrics$AdvancedBarChart.class
+com\ashkiano\fakepluginscommand\Metrics$SimpleBarChart.class
+com\ashkiano\fakepluginscommand\Metrics$SimplePie.class
 com\ashkiano\fakepluginscommand\FakePluginsCommand.class
+com\ashkiano\fakepluginscommand\Metrics$JsonObjectBuilder$JsonObject.class
 com\ashkiano\fakepluginscommand\FakePluginsCommand$1.class
+com\ashkiano\fakepluginscommand\Metrics$JsonObjectBuilder.class
+com\ashkiano\fakepluginscommand\Metrics$MultiLineChart.class
+com\ashkiano\fakepluginscommand\Metrics.class
